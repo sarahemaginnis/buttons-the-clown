@@ -1,0 +1,24 @@
+{
+  "bookings": [
+    {
+      "parentName": "Bruce Wayne",
+      "childName": "The Joker",
+      "numberOfChildren": "13",
+      "addressOfParty": "Wayne Manor",
+      "dateOfReservation": "2022-04-07",
+      "lengthOfReservation": "2",
+      "id": 2
+    },
+    {
+      "parentName": "Superman",
+      "childName": "Lois Lane",
+      "numberOfChildren": "3",
+      "addressOfParty": "The Daily Prophet",
+      "dateOfReservation": "2022-04-01",
+      "lengthOfReservation": "3",
+      "id": 3
+    }
+  ],
+  "families": [],
+  "clowns": []
+}
